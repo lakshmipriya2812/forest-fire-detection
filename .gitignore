@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Dataset (too large for GitHub)
+data/train/
+data/validation/
+data/test/
+
+# Models (too large for GitHub)
+models/*.h5
+models/*.hdf5
+*.h5
+
+# Logs
+logs/
+*.log
+
+# Jupyter
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary
+temp/
+*.tmp
