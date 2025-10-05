@@ -22,7 +22,7 @@ Installation
 
 Clone the repository
 
-bashgit clone https://github.com/YOUR_USERNAME/forest-fire-detection.git
+bashgit clone https://github.com/lakshmipriya2812/forest-fire-detection.git
 cd forest-fire-detection
 
 Install dependencies
@@ -32,14 +32,11 @@ bashpip install -r requirements.txt
 Download pre-trained model (optional)
 
 bash# Download from releases or train your own
-wget https://github.com/YOUR_USERNAME/forest-fire-detection/releases/download/v1.0/model_best.h5 -P models/
+wget https://github.com/lakshmipriya2812/forest-fire-detection/releases/download/v1.0/model_best.h5 -P models/
 
 📊 Dataset
 Download Dataset
 We recommend using one of these datasets:
-
-Kaggle Fire Dataset: Download here
-Forest Fire Dataset: Download here
 
 Prepare Dataset
 Organize your data in this structure:
