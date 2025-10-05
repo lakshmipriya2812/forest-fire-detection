@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🔥 Forest Fire Detection System
 AI-Powered Forest Fire Detection using Deep Learning and Computer Vision
 An intelligent system that detects forest fires in images and video streams using Convolutional Neural Networks (CNNs), enabling early detection and rapid response to prevent wildfire disasters.
@@ -170,3 +171,7 @@ Check the FAQ
 If this project helped you, please give it a ⭐!
 
 Made with ❤️ for Forest Conservation
+=======
+# forest-fire-detection
+AI-powered Forest Fire Detection using Deep Learning and Computer Vision
+>>>>>>> b8a56478a9818761864625fa3192d20ab63a0899
